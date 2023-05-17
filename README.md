@@ -6,6 +6,10 @@ a platform  for building, running, and shipping application
 #### virtual machine &&container ?
 ##### what is container 
 an isolated environment  for running application 
+1. allow running on multiple apps in isolation 
+2. start quickly 
+3. use OS th host 
+4. 
 
 ##### what is  virtual machine?
 an abstraction of a machine  (physically hardware )
